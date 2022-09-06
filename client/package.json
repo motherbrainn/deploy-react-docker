@@ -1,5 +1,5 @@
 {
-  "name": "deploy-react-express-with-docker-example",
+  "name": "deploy-react-express-with-docker-example-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
