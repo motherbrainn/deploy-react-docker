@@ -8,4 +8,7 @@ was a really nice trick to get everything hosted in one place.
 This example shows the same effect can be achieved by using a Docker multistage build then deploying your Docker container
 to a different free service instead.  
 
-Test it out by deploying this to Heroku then deploying to some service that does docker images. Try Digitial Ocean? ¯\\_(ツ)_/¯
+Test it out by deploying this to Heroku then deploying to some service that does docker images. Try Digitial Ocean? ¯\\_(ツ)_/¯  
+
+Article I wrote about this:  
+https://medium.com/@aaronnnnn/heroku-isnt-free-anymore-how-else-can-i-deploy-my-react-node-app-b6ba3afb67ba
