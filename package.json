@@ -1,0 +1,20 @@
+{
+  "name": "deploy-react-express-with-docker-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "cd server && npm install && node app.js",
+    "heroku-postbuild": "cd client && npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motherbrainn/deploy-react-express-with-docker-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/motherbrainn/deploy-react-express-with-docker-example/issues"
+  },
+  "homepage": "https://github.com/motherbrainn/deploy-react-express-with-docker-example#readme"
+}
